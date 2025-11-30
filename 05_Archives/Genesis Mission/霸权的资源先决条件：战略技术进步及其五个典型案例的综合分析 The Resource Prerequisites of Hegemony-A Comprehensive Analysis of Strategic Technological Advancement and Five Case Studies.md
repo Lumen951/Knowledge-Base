@@ -26,7 +26,7 @@ The primary prerequisite of a strategic innovation ecosystem is the infusion of 
 
 #### 1.1 The Unlimited Capital Model: War-Time Funding
 
-这一资源配置基准是在二战期间通过曼哈顿计划确立的。项目负责人莱斯利·格罗夫斯（Leslie R. Groves）将军奉行一种独特的资源哲学：成本无关紧要，时间是唯一的稀缺资源。该项目消耗了约20亿美元（1945年币值），这一金额代表了国家工业能力的巨大转移。
+这一资源配置基准是在二战期间通过曼哈顿计划确立的。项目负责人莱斯利·格罗夫斯（Leslie R. Groves）将军奉行一种独特的资源哲学：**成本无关紧要，时间是唯一的稀缺资源**。该项目消耗了约20亿美元（1945年币值），这一金额代表了国家工业能力的巨大转移。
 
 This resource allocation baseline was established during World War II with the Manhattan Project. General Leslie R. Groves, commanding the project, operated with a unique resource philosophy: cost was irrelevant; time was the only scarce resource. The project consumed approximately $2 billion (in 1945 dollars), a sum that represented a massive diversion of national industrial capacity.
 
@@ -66,7 +66,7 @@ The historical record of Silicon Valley reveals that the region's early developm
 
 Lockheed Missiles and Space Company became the core enterprise of this ecosystem via massive contracts for the Polaris and Trident missiles, employing thousands of engineers and creating a cluster of technical competence. The federal government acted as the primary consumer for the region's output. The integrated circuit (IC) initially cost $1,000 per chip, with no existing commercial market. It was the U.S. Air Force (for the Minuteman II missile guidance system) and NASA (for the Apollo Guidance Computer) whose bulk purchasing sustained the industry.
 
-这种采购作为一种补贴，允许行业扩大生产规模，提高良率，并将价格降至25美元，从而开启商业市场。因此，战略技术发展的要求之一是存在**“第一类买家”**（Buyer of First Resort）——即愿意为尚未商业化可行的新兴技术支付溢价的国家行为体。
+这种采购作为一种补贴，允许行业扩大生产规模，提高良率，并将价格降至25美元，从而开启商业市场。因此，战略技术发展的要求之一是存在 **“第一类买家”**（Buyer of First Resort）——即愿意为尚未商业化可行的新兴技术支付溢价的国家行为体。
 
 This procurement acted as a subsidy, allowing the industry to scale up production, improve yields, and drive the price down to $25, thereby opening the commercial market. Thus, a requirement of strategic technological development is the presence of a "Buyer of First Resort"—a state actor willing to pay a premium for nascent technologies that are not yet commercially viable.
 
@@ -148,7 +148,7 @@ The Apollo program required integrating the outputs of the Marshall Space Flight
     
     - **The "All-Up" Decision:** George Mueller imposed the "All-Up" testing philosophy: launching the entire Saturn V stack (all three live stages) on the very first flight. This high-risk, high-reward strategy accelerated the schedule and forced the system to resolve massive complexity simultaneously.
         
-- **周一备忘录（The Monday Notes）：** 冯·布劳恩要求每位部门主管每周一提交一页进度摘要，经其批注后分发给所有人。这确保了跨部门的信息同步，防止了大型官僚机构中常见的沟通故障。
+- **周一备忘录（The Monday Notes）：** [^1]冯·布劳恩要求每位部门主管每周一提交一页进度摘要，经其批注后分发给所有人。这确保了跨部门的信息同步，防止了大型官僚机构中常见的沟通故障。
     
     - **The Monday Notes:** Von Braun required every division head to submit a one-page progress summary every Monday, which he annotated and circulated to everyone. This ensured cross-departmental synchronization, preventing the communication failures common in large bureaucracies.
         
@@ -288,3 +288,5 @@ These "Broken Arrow" incidents reveal that the system often failed to effectivel
 战略技术进步的“健康”模式是一种极端资源消耗的机制。它要求国家提供无限的资本投入，引进和综合最高质量的智力资源，并实施能够处理复杂性且不导致系统崩溃的管理纪律。虽然产出——炸弹、登月、芯片、网络和超级武器——构成了霸权的支柱，但泰坦II和断箭事件警示我们：高爆炸性且缺乏安全反馈机制的系统可能导致自我毁灭的风险。未来的国家战略必须在创新需求与风险控制之间取得平衡。
 
 The "healthy" model for strategic technological advancement is a regimen of extreme resource consumption. It requires the state to provide unlimited capital input, import and synthesize the highest quality intellectual resources, and enforce a management discipline capable of processing complexity without succumbing to systemic failure. While the outputs—the Bomb, the Moon Landing, the Chip, the Net, and the Superweapon—form the pillars of hegemony, the Titan II and Broken Arrow incidents serve as a warning: a system high in explosive power but low in safety feedback mechanisms leads to the risk of self-destruction. Future state strategies must balance the demand for innovation with the management of risk.
+
+[^1]: OKR系统
