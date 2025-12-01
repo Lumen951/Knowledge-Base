@@ -2,7 +2,17 @@
   "version": "2.0",
   "mapping": {
     "02_Projects/校内课程/Y3S1-具身智能基础/Untitled.md": "02_projects_校内课程_y3s1-具身智能基础_untitled.md.json",
-    "02_Projects/校内课程/Y3S1-具身智能基础/6.1 神经网络与深度学习.md": "02_projects_校内课程_y3s1-具身智能基础_6.1_神经网络与深度学习.md.json"
+    "02_Projects/校内课程/Y3S1-具身智能基础/6.1 神经网络与深度学习.md": "02_projects_校内课程_y3s1-具身智能基础_6.1_神经网络与深度学习.md.json",
+    "02_Projects/校内课程/Y3S1-具身智能基础/6.2 卷积神经网络.md": "02_projects_校内课程_y3s1-具身智能基础_6.2_卷积神经网络.md.json",
+    "00_Inbox/Untitled.md": "00_inbox_untitled.md.json",
+    "00_Inbox/《以日为鉴》分析笔记.md": "00_inbox_《以日为鉴》分析笔记.md.json",
+    "02_Projects/校内课程/Y3S1-具身智能基础/6.1&6.2 神经网络与深度学习&卷积神经网络.md": "02_projects_校内课程_y3s1-具身智能基础_6.1&6.2_神经网络与深度学习&卷积神经网络.md.json",
+    "02_Projects/校内课程/Y3S1-具身智能基础/7.1&7.2.md": "02_projects_校内课程_y3s1-具身智能基础_7.1&7.2.md.json",
+    "02_Projects/校内课程/Y3S1-具身智能基础/7.1&7.2 计算机视觉.md": "02_projects_校内课程_y3s1-具身智能基础_7.1&7.2_计算机视觉.md.json",
+    "02_Projects/校内课程/Y3S1-具身智能基础/8.1 具身智能空间感知.md": "02_projects_校内课程_y3s1-具身智能基础_8.1_具身智能空间感知.md.json",
+    "02_Projects/校内课程/Y3S1-具身智能基础/9.1&9.2 具身智能.md": "02_projects_校内课程_y3s1-具身智能基础_9.1&9.2_具身智能.md.json",
+    "02_Projects/校内课程/Y3S1-具身智能基础/9.1&9.2 具身智能基础模型&.md": "02_projects_校内课程_y3s1-具身智能基础_9.1&9.2_具身智能基础模型&.md.json",
+    "02_Projects/校内课程/Y3S1-具身智能基础/9.1&9.2 具身智能基础模型&自主系统认知导航.md": "02_projects_校内课程_y3s1-具身智能基础_9.1&9.2_具身智能基础模型&自主系统认知导航.md.json"
   },
-  "lastUpdated": 1764519290787
+  "lastUpdated": 1764592296243
 }
