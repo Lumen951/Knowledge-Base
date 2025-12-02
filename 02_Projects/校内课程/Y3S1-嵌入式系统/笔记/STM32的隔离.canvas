@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"b461e650a5fe083a","type":"text","text":"DC/DC","x":-151,"y":-179,"width":91,"height":60},
+		{"id":"56b9649cb2c2f882","type":"text","text":"STM32","x":-151,"y":-60,"width":91,"height":60},
+		{"id":"c9f5f7cfbfab3ae4","type":"text","text":"隔离","x":-360,"y":-60,"width":91,"height":60},
+		{"id":"de757c9bacec3e77","type":"text","text":"隔离","x":80,"y":-60,"width":91,"height":60},
+		{"id":"96f6f4e186c3a46e","type":"text","text":"GND","x":-145,"y":40,"width":79,"height":60},
+		{"id":"22e5e6519bc5af6e","type":"text","text":"DI","x":-360,"y":-149,"width":91,"height":60},
+		{"id":"67bda0b83190c498","type":"text","text":"DO","x":80,"y":-149,"width":91,"height":60}
+	],
+	"edges":[
+		{"id":"c8dfa1ee93765fee","fromNode":"56b9649cb2c2f882","fromSide":"bottom","toNode":"96f6f4e186c3a46e","toSide":"top"},
+		{"id":"a23ba6503a19af6e","fromNode":"b461e650a5fe083a","fromSide":"bottom","toNode":"56b9649cb2c2f882","toSide":"top"},
+		{"id":"89e2874905ccbb6f","fromNode":"c9f5f7cfbfab3ae4","fromSide":"right","toNode":"56b9649cb2c2f882","toSide":"left"},
+		{"id":"950badb676f023b1","fromNode":"56b9649cb2c2f882","fromSide":"right","toNode":"de757c9bacec3e77","toSide":"left"}
+	]
+}
